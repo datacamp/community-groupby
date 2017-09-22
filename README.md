@@ -23,7 +23,7 @@ This will create a new environment called group-by-pandas-netflix. To activate t
 source activate group-by-pandas-netflix
 ```
 
-Then open the notebook `hurricanevis-code.ipynb` and execute the code.
+Then open the notebook `split-apply-combine-netflix-data.ipynb` and execute the code.
 
 
 ### Code
